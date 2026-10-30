@@ -1,0 +1,6 @@
+# Tableau temporary and autosave files
+*.tmp
+*.tfl
+*.tflx
+Thumbs.db
+.DS_Store
